@@ -1,0 +1,95 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin:0;
+}
+h1{
+    font-size:50px;
+    margin: 0%;
+    border-left: 5px solid;
+    border-color: slateblue;
+    padding-left: 30px;
+  
+}
+h2{
+    font-size: 40px;
+    padding:0px;
+    margin-left: 40%;
+}
+h4{
+    font-size: 30px;
+    margin: 0%;
+    padding-right:20px;
+}
+.flexible-container{
+    display: flex;
+    margin-bottom: 150px;
+    margin-left: 100px;
+}
+.half-width{
+    width: 50%;
+    padding-left: 5%;
+    margin-left: 5%; 
+    margin-top: 10%;   
+}
+.half-width img {
+      width: 70%;
+}
+.slateblue-color{
+    color:slateblue;
+}
+.link-button{
+    text-decoration: none;
+    background-color:slateblue ;
+    padding: 5px 20px;
+    border-radius: 5px;
+}
+.mission-item1 img{
+       width: 40%;
+}
+.mission-item2 img{
+    width: 50%;
+}
+.mission-item3 img{
+    width: 50%;
+}
+.mission-item1{
+    width: 70%;
+    height:30%;
+    padding-left: 20px;
+    background-color:rgb(228, 207, 228);
+}
+.mission-item2{
+    width: 65%;
+    height: 30%;
+    margin-left: 5%;
+    padding-left: 20px;
+    background-color: rgb(236, 195, 219);
+}
+.mission-item3{
+    width: 80%;
+    height: 30%;
+    background-color: rgb(243, 204, 217);
+ }
+.half-width2 img{
+    width:60%;
+    height: 100%;
+}
+.half-width2{
+    background-image: url(images/shapes/shape-5.png);
+}
+.half-width3 img{
+    width:60%;
+    height:100%;
+    padding-left: 20%;
+}
+h5{
+    font-size: 30px;
+}
+.half-width4 img{
+    width: 80%;
+    height:100%;
+}
+.half-width4{
+    width:70%;
+}
+
